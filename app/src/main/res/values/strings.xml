@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Mialeds</string>
+    <string name="mialeds">MIALEDS</string>
+    //inicio de sesion
+    <string name="texto_formulario">iniciar Sesion</string>
+    <string name="input_correo">Correo electronico</string>
+    <string name="input_clave">contraseña</string>
+    <string name="btn_formulario">Ingresar</string>
+    //tabla de productos
+    <string name="head_nombre">nombre</string>
+    <string name="head_presentacion">presentacion</string>
+    <string name="head_precio">precio</string>
+    <string name="head_cantidad">cantidad</string>
+    //botones de inventario
+    <string name="btn_nuevo">nuevo</string>
+    <string name="btn_editar">editar</string>
+    <string name="btn_eliminar">eliminar</string>
+    <string name="text_buscar">nombre producto</string>
+    <string name="btn_buscar">buscar</string>
+    <string name="btn_salir">salir</string>
+    //ventana nuevo producto
+    <string name="titulo_nuevo">Registrar nuevo producto</string>
+    <string name="nuevo_producto_nombre">Nombre</string>
+    <string name="nuevo_producto_presentacion">presentacion</string>
+    <string name="nuevo_producto_precio_compra">precio compra</string>
+    <string name="nuevo_producto_precio_venta">precio venta</string>
+    <string name="nuevo_producto_cantidad">cantidad</string>
+    <string name="btn_agregar">Agregar</string>
+    <string name="btn_cancelar">Cancelar</string>
+    //ventana editar producto
+    <string name="titulo_editar">Editar producto</string>
+    <string name="btn_aceptar">Aceptar</string>
+
+
+</resources>
